@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0056-merge-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
