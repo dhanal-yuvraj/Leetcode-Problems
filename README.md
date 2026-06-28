@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
