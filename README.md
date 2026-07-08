@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Binary Indexed Tree
