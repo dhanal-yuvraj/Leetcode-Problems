@@ -16,7 +16,6 @@ class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int left = 1;
         int right = maxElement(piles);
-        int res = right;
         while(left<=right){
             int mid = (left+right)/2;
             int totalHrs = HourEating(piles, mid);
