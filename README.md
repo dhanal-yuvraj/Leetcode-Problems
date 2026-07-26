@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
