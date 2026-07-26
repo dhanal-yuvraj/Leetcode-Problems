@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0704-binary-search) |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
