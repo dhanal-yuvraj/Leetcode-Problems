@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0877-stone-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
