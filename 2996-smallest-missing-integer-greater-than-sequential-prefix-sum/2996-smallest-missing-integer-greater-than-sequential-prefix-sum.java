@@ -1,20 +1,25 @@
 class Solution {
     public int missingInteger(int[] A) {
-        int n = A.length;
-        Set<Integer> seen = new HashSet<>(n);
-
-        for (int num : A)
-            seen.add(num);
         int sum = A[0];
+        boolean[] seen = new boolean[52];
+        boolean seq = true;
 
-        for (int i = 1; i < n; i++) {
-            if (A[i] == A[i - 1] + 1)
+        seen[A[0]] = true;
+
+        for (int i = 1; i < A.length; i++) {
+            if (seq && A[i] == A[i - 1] + 1)
                 sum += A[i];
-            else break;
+            else {
+                seq = false;
+                if (sum > 50)
+                    return sum;
+            }
+            seen[A[i]] = true;
         }
 
-        while (seen.contains(sum))
-            sum++;
+        for (int i = sum; i < 52; i++)
+            if (!seen[i])
+                return i;
 
         return sum;
     }
