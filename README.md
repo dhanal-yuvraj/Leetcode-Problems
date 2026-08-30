@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
