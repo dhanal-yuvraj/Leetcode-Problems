@@ -1,40 +1,20 @@
 class Solution {
-
-    public boolean uniformArray(int[] nums) {
-
-        boolean allEven = true;
-        boolean allOdd = true;
-
-        int minEven = Integer.MAX_VALUE;
-        int minOdd = Integer.MAX_VALUE;
-
-        for (int x : nums) {
-            if (x % 2 == 0) {
-                minEven = Math.min(minEven, x);
-            } else {
-                minOdd = Math.min(minOdd, x);
-            }
+    public boolean uniformArray(int[] nums1) {
+        int min=Integer.MAX_VALUE;
+        for(int num:nums1){
+            min=Math.min(min,num);
         }
 
-        for (int x : nums) {
-
-            // Can this element become even?
-            if (x % 2 != 0) {
-                // odd - odd = even
-                if (minOdd >= x) {
-                    allEven = false;
-                }
-            }
-
-            // Can this element become odd?
-            if (x % 2 == 0) {
-                // even - odd = odd
-                if (minOdd >= x) {
-                    allOdd = false;
-                }
+        //minimum is odd->always possible
+        if(min%2==1){
+            return true;
+        }
+        //minimum is even -> all elements must be even 
+        for(int num:nums1){
+            if(num%2==1){
+                return false;
             }
         }
-
-        return allEven || allOdd;
+        return true;
     }
 }
