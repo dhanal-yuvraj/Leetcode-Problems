@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1901-find-a-peak-element-ii) |
