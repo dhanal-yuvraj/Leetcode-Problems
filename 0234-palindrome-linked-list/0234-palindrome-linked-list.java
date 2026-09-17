@@ -13,11 +13,15 @@ class Solution {
         if(head==null || head.next==null){
             return head;
         }
-        ListNode newHead = reverse(head.next);
-        ListNode front = head.next;
-        front.next = head;
-        head.next = null;
-        return newHead;
+        ListNode prev = null;
+        ListNode temp = head;
+        while(temp!=null){
+            ListNode front = temp.next;
+            temp.next = prev;
+            prev = temp;
+            temp = front;
+        }
+        return prev;
     }
     public boolean isPalindrome(ListNode head) {
         boolean palindrome = true;
