@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Manacher
 |  |
 | ------- |
