@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
