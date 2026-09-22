@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0877-stone-game) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/dhanal-yuvraj/Leetcode-Problems/tree/master/1872-stone-game-viii) |
