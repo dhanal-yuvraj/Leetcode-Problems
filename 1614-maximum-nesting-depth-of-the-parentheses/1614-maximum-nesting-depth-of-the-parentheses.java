@@ -1,17 +1,18 @@
 class Solution {
     public int maxDepth(String s) {
-        int count = 0;
-        int maxCount = 0;
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='('){
-                count++;
-                if(maxCount < count){
-                    maxCount = count;
-                }
-            }else if(s.charAt(i)==')'){
-                count--;
+        int depth = 0;
+        int r = 0;
+        for (char c : s.toCharArray()) {
+            if (c == ')') {
+                depth--;
+                continue;
             }
+            // Digits and operators
+            if (c != '(') continue;
+            depth++;
+            // New max only possible after '('
+            if (depth > r) r = depth;
         }
-        return maxCount;
+        return r;
     }
 }
